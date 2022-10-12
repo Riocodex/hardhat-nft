@@ -8,3 +8,15 @@
  and in addition they have whats called a token uri
  A uri(uniform resource identifier) its a unique indicator of what an asset or token
  looks like and what the attributes are
+
+ PROJECT OVERVIEW
+ there will be 3 contracts
+ 1)basic nft: using erc721 standard
+
+ 2)Random ipfs hosted nft:random nft at creation hosted on ipfs
+
+ 3) dynamic svg nft:will be 100percent onchain and the nft changes depending on the parameters
+
+
+
+ BASIC NFT
