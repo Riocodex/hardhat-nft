@@ -51,4 +51,4 @@ const { developmentChains } = require("../../helper-hardhat-config")
               assert.equal(owner, deployerAddress)
           })
         })
-    })
+    });
