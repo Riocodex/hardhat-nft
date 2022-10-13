@@ -20,3 +20,18 @@
 
 
  BASIC NFT
+ basically we just want to be able to mint an nft on opensea..with ipfs to store 
+ metadata , token uris..blah blah blah just basics
+
+ RANDOM IPFS NFT
+ so this nft will consist of the following processes
+ 1)when we mint an nft, we will trigger a chainlink vrf call(yh sounds familiar rii)
+ to get us a random number
+ 2)using that number we will select an nft from the dogs (pug,shiba,st.bernard)
+ in order words we will get us a random nft
+ 3)we will make the dogs have a different popularity eg
+ pug will be super rare
+ shiba will be sorta rare
+ and st bernard will be common
+ 4)also users will have to pay a certain amount of eth to mint an nft
+ 5)the owner of the contract can withdraw the eth
