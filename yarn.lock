@@ -830,7 +830,7 @@
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.7.3.tgz#939534757a81f8d69cc854c7692805684ff3111e"
   integrity sha512-dGRS0agJzu8ybo44pCIf3xBaPQN/65AIXNgK8+4gzKd5kbvlqyxryUYVLJv7fK98Seyd2hDZzVEHSWAh0Bt1Yw==
 
-"@pinata/sdk@^1.1.23":
+"@pinata/sdk@^1.1.26":
   version "1.1.26"
   resolved "https://registry.yarnpkg.com/@pinata/sdk/-/sdk-1.1.26.tgz#ff8caa62a36460eeb2266c85df649e2451313ca7"
   integrity sha512-surJDg6aBRMnx3TAzBeBH/rNnlsTsykkBe1Fr7VMZgw3Ub4Q0RO2y5mAXtO4AmBqFtqLTbMW/2ItAQ6rVfKGPw==
