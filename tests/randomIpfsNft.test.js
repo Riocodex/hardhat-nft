@@ -75,7 +75,7 @@ const { developmentChains } = require("../../helper-hardhat-config")
                           )
                       } catch (e) {
                           console.log(e)
-                          reject(e)
+                          reject(e);
                       }
                   })
               })
